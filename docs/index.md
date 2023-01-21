@@ -6,4 +6,5 @@ Urls list:
 * [My 1st 'Dev' blogpost](https://dev.to/yoadk/my-1st-post-title-558l/)
 
 Picture of an animal that i like:
-![]([url](https:/i.ytimg.com/vi/3AM5fFQo22s/maxresdefault.jpg))
+
+![](https://www.lpzoo.org/wp-content/uploads/2021/07/p_cl.jpg)
